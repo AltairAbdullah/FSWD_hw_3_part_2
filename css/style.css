@@ -1,0 +1,80 @@
+.header{
+	min-height: 80px;
+	background-color: lightcoral;
+}
+
+.container{
+	overflow: hidden;
+}
+
+.blog{
+	float: left;
+	width: 70%;
+	min-height: 100px;
+	background-color: powderblue;
+}
+
+.contact{
+	float: right;
+	width: 30%;
+	min-height: 100px;
+	background-color: seagreen;
+}
+
+
+.container{
+	overflow: hidden;
+}
+
+.box_1{
+	float: left;
+	min-height: 100px;
+	width: 25%;
+}
+
+.indigo{
+	background-color: indigo;
+}
+
+.navy{
+	background-color: navy;
+}
+
+.teal{
+	background-color: teal;
+}
+
+.steelblue{
+	background-color: steelblue;
+}
+
+
+.footer{
+	min-height: 80px;
+	background-color: dimgray;
+}
+
+
+.box_2{
+	width: 500px;
+	height: 500px;
+}
+
+.limegreen{
+	background-color: limegreen;
+	margin: 100px 50px 40px 20px;
+
+}
+.indianred{
+	background-color: indianred;
+	padding: 100px 50px 40px 20px;
+}
+
+.box_3{
+	width: 300px;
+	height: 300px;
+	background-color: purple;
+	padding: 10px;
+	border: 5px solid black;
+	margin: 20px;
+}
